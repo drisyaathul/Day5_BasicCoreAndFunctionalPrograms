@@ -1,1 +1,1 @@
-Basic Core Programs
+Basic Core Programs and Functional Programs
